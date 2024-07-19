@@ -139,3 +139,5 @@ Feel free to fork this project, make improvements, and submit pull requests. Any
 This project is licensed under the BSD 2-Clause License.
 
 ## References
+This project is primarily based on the following article, which has really helped me a lot:
+https://juejin.cn/column/7119465675000643591
